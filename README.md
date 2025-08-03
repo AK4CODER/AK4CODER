@@ -14,9 +14,9 @@
 - 💡 DSA enthusiast solved over **340+ problems** on [LeetCode](https://leetcode.com/u/AK4Rocks/).  
 - 📘 Sharpening skills, exploring new frameworks, and passionate about building a tech-driven career.  
 - 🚀 Built real-world projects like:
-  - 🎯 **CareerCraft**: AI-powered career assistant (resume, cover letter, and quiz generation).
-  - 🌍 **NextTrip.AI**: AI-based travel planner with Google Places integration.
-  - 💸 **SpendWise**: Expense tracking dashboard with authentication and analytics.
+  - 🎯 [**CareerCraft**](https://github.com/AK4CODER/CareerCraft): AI-powered career assistant (resume, cover letter, and quiz generation).
+  - 🌍 [**NextTrip.AI**](https://github.com/AK4CODER/NextTrip.AI): AI-based travel planner with Google Places integration.
+  - 💸 [**SpendWise**](https://github.com/AK4CODER/SpendWise): Expense tracking dashboard with authentication and analytics.
 
 ---
 
@@ -52,8 +52,7 @@
 
 ---
 
+
 ### 🎯 Fun Fact
 
-> I debug faster with **music 🎧** and a hot cup of **chai ☕**  
->  
-> Motto: **"Just Keep Moving Forward 🚶‍♂️"**
+> Late nights, cold screens, hot chai — that’s where the real dev magic happens 🌙✨
