@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
+    <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="developer gif" width="300" />
 
 
 
